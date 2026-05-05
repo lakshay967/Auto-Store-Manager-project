@@ -13,7 +13,7 @@ Auto Store Manager is a full-stack application for small and medium retail busin
 
 ## Project Demo
 
-[Watch Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch Demo Video]https://www.youtube.com/watch?v=vFpC7oJ-Gpo
 
 ---
 
